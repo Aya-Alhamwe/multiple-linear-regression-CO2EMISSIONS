@@ -57,6 +57,8 @@ This machine learning project predicts **CO2 emissions (g/km)** from vehicles us
 | ![Before Log - Fuel](assets/prediction_before_log_fuel.png) | ![After Log - Fuel](assets/prediction_after_log_fuel.png) |
 | *Fuel Consumption vs CO2 (Raw)* | *Fuel Consumption vs CO2 (Log-transformed)* |
 
+| Before Log Transform | After Log Transform |
+|----------------------|---------------------|
 | ![Before Log - Engine](assets/prediction_before_log_engine.png) | ![After Log - Engine](assets/prediction_after_log_engine.png) |
 | *Engine Size vs CO2 (Raw)* | *Engine Size vs CO2 (Log-transformed)* |
 
