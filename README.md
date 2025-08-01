@@ -81,9 +81,9 @@ pip install numpy pandas matplotlib scikit-learn
 ## 📁 Folder Structure
 ```bash
 .
-├── MultipleLinearRegression.ipynb         # Jupyter notebook with full code
-├── pyMultiplelinearregression.py             # Python script version
-├── FuelConsumptionCo2.csv               # Dataset used
+├── MultipleLinearRegression.ipynb         
+├── pyMultiplelinearregression.py        
+├── FuelConsumptionCo2.csv                 
 ├── README.md
 └── assets/
     ├── prediction_before_log_fuel.png
